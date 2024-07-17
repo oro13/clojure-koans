@@ -1,4 +1,4 @@
--# Clojure Koans
+# Clojure Koans
 
 The Clojure Koans are a fun way to get started with Clojure - no experience
 assumed or required. Follow the instructions below to start making tests pass!
@@ -26,8 +26,6 @@ Instructions for each option are below!
 The only things you'll need to run the Clojure Koans are:
 
 - JDK (I suggest version 8, but anything 6 or above should work fine)
-
-
 - [Leiningen](http://github.com/technomancy/leiningen), a build tool for Clojure
 
 Once you've cloned this repo and installed the dependencies, you can run:
